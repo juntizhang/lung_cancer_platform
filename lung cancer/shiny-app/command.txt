@@ -1,0 +1,1 @@
+rsconnect deploy shiny "C:\Users\Beryl2\OneDrive - National University of Singapore\Study\NUS\Courses\BMI5101 Advanced Biomedical Informatics\lung cancer\shiny-app" --name junti --title BMI5101
